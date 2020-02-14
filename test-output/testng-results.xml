@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9748" started-at="2019-09-19T12:44:05Z" finished-at="2019-09-19T12:44:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9748" started-at="2019-09-19T12:44:05Z" finished-at="2019-09-19T12:44:15Z">
+      <class name="Page">
+        <test-method status="PASS" signature="setUpEnv()[pri:0, instance:Page@cc285f4]" name="setUpEnv" is-config="true" duration-ms="7827" started-at="2019-09-19T12:44:05Z" finished-at="2019-09-19T12:44:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpEnv -->
+        <test-method status="PASS" signature="testcase1()[pri:0, instance:Page@cc285f4]" name="testcase1" duration-ms="1236" started-at="2019-09-19T12:44:13Z" finished-at="2019-09-19T12:44:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Page@cc285f4]" name="tearDown" is-config="true" duration-ms="605" started-at="2019-09-19T12:44:15Z" finished-at="2019-09-19T12:44:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Page -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
